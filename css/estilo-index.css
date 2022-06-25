@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Definiçoes gerais*/
+body{
+    font-family: 'Times New Roman', serif, Arial;
+    background-color: #dcdcdc;
+}
+
+main{
+    width: 1060px;
+    margin: 0 auto;
+}
+
+nav{
+    height: 10px;
+    margin-top: 25px;
+}
+
+header{
+    background: #1c86ee;
+    padding: 40px;
+    text-align: center;
+    height: auto;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: #63b8ff;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #08121b;
+    text-align: center;
+}
+
+p{
+    text-indent: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    font-size: 19px;
+    list-style: none;
+}
+
+/*Formatação links*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:link, a:visited{
+    color: black;
+}
+
+nav>span>a{
+    font-size: 25px;
+    padding: 9px 12px;
+}
+
+nav>span>a:hover{
+    background: #1874cd;
+   border-radius: 10px 20px ;
+}
+
+/*Section conteudo*/
+.section-conteudo{
+    padding: 20px;
+    margin-bottom: 0px;
+    background-color: #f8f8ff;
+}
+
+/* Informações */
+.inf{
+    border: 5px solid black;
+}
+
+#redes{
+    padding: 25px;
+    text-align: center;
+    background-color: #63b8ff;
+    
+}
+
+#inf{
+    background-color: #63b8ff;
+}
+
+/* Imagem */
+#img-cps{
+    text-align: center;
+}
+
+/* Rodape  */
+#img-rod{
+    text-align: center;
+
+}

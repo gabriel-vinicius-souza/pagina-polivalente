@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Definiçoes gerais*/
+body{
+    font-family: 'Times New Roman', serif, Arial;
+    background-color: #dcdcdc;
+}
+
+main{
+    width: 1060px;
+    margin: 0 auto;
+}
+
+nav{
+    height: 10px;
+    margin-top: 25px;
+}
+
+header{
+    background: #1c86ee;
+    padding: 40px;
+    text-align: center;
+    height: auto;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: #63b8ff;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #08121b;
+    text-align: center;
+}
+
+p{
+    text-indent: 30px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+}
+
+/*Formatação links*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:link a:visited{
+    color: black;
+}
+nav>span>a{
+    font-size: 25px;
+    padding: 9px 12px;
+}
+nav>span>a:hover{
+    background: #1874cd;
+   border-radius: 10px 20px ;
+}
+
+/*Section conteudo*/
+.section-conteudo{
+    padding: 20px;
+    margin-bottom: 0px;
+    background-color: #f8f8ff;
+}
+
+/* Lista */
+li{
+    font-size: 20px;
+    list-style: none;
+}
+
+/* Imagem */
+#img-rod{
+    text-align: center;
+}
+
+/*cursos imagem*/
+
+/*itinerarios formativos*/
+
+/*Biológicas, Agrárias e da Saude*/
+.bio{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+/*  Exatas e Engenharia */
+.exat{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+
+/* Linguagens Humanas e Sociais */
+.hum{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* NOVOTEC */
+
+
+/* administração */
+.adm-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Desenvolvimento de sistemas */
+.ds-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Desenvolvimento de sistemas AMS */
+.ds-ams{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Desing de Interiores */
+.desint-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Desing Grafico */
+.desgraf-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Edifficações  */
+.edif-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Informatica */
+.inf-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Informatica para internet */
+.infint-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Logistica */
+.log-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Mecanica */
+.mec-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Quimica */
+.quim-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Recursos Humanos */
+.rh-em{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Tecnicos */
+
+/* Administração */
+.adm{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Contabilidade */
+.cont{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Desing de interiores */
+.des-int{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/*Edificações*/
+.edif{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/*Logistica */
+.log{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Recursos Humanos */
+.rh{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}
+
+
+/* Segurança do trabalho */
+.seg-trab{
+    background-color: #f1f2f3;
+    border: 5px solid black;
+}

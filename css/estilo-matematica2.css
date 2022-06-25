@@ -1,0 +1,104 @@
+/*zerando margem e espaçamento*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*Definiçoes gerais*/
+body{
+    font-family: 'Times New Roman', serif, Arial;
+    background-color: #dcdcdc;
+}
+
+main{
+    width: 1060px;
+    margin: 0 auto;
+}
+
+nav{
+    height: 10px;
+}
+
+header{
+    background: #d8bfd8;
+    padding: 40px;
+    text-align: center;
+    height: auto;
+    margin: 1px;
+}
+
+footer{
+    background-color: #9370db;
+    padding: 20px;
+}
+
+
+p{
+    text-indent: 30px;
+    padding: 5px;
+    font-size: 20px;   
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;  
+}
+li{
+    text-indent: 30px;
+    padding: 5px;
+    font-size: 20px;
+    list-style: none;
+}
+
+
+/*Formatação links*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:link, a:visited{
+    color: purple;
+}
+
+nav>span>a{
+    font-size: 25px;
+    padding: 9px 12px;
+}
+
+nav>span>a:hover{
+    background: #9370db;
+   border-radius: 10px 20px ;
+}
+
+
+
+/*Section conteudo*/
+.section-conteudo{
+    padding: 20px;
+    margin-bottom: 0px;
+    background-color: #f8f8ff;
+}
+
+/*imagens*/
+#imagem-fun1{
+    text-align: center;
+}
+#imagem-fun2{
+    text-align: center;
+}
+#imagem-fun3{
+    text-align: center;
+}
+#img-cab{
+    width: 100%;
+    text-align: center;
+}
